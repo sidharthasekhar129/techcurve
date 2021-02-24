@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "819150038770",
+    "project_id": "techcurve-c318e",
+    "storage_bucket": "techcurve-c318e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819150038770:android:7e5b62b6abf656ae7bd26b",
+        "android_client_info": {
+          "package_name": "com.tc.techcurve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819150038770-jnpbb3dio2jq82q480e1flb9bs3c6eee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tc.techcurve",
+            "certificate_hash": "28a08cc6b03faa114348aeddc8180aae2fdeb096"
+          }
+        },
+        {
+          "client_id": "819150038770-jpnsa6gc8fsgq5hfbcanggtgoflcncec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqrUYHi_J3_yl9_m793wRz0xYi9_plhxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819150038770-jpnsa6gc8fsgq5hfbcanggtgoflcncec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
